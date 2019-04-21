@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "GAME", "PythonApplication1\GAME.pyproj", "{82DFA914-F1B5-4EF5-BA3C-A69216AA4F06}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Drawing", "Drawing\Drawing.pyproj", "{695B298A-0EBA-4096-9632-29ABA10FB599}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{82DFA914-F1B5-4EF5-BA3C-A69216AA4F06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82DFA914-F1B5-4EF5-BA3C-A69216AA4F06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{695B298A-0EBA-4096-9632-29ABA10FB599}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{695B298A-0EBA-4096-9632-29ABA10FB599}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EF34B4BF-7F76-47E3-B706-2C1F4DF1854C}
+	EndGlobalSection
+EndGlobal
